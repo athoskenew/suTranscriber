@@ -1,7 +1,3 @@
-utilize o comando:
-pip install -r requirements.txt
-para instalar as bibliotecas necessárias
-
 ## 🌐 Sobre
 
 Este projeto tem como finalidade utilizar a API da OpenAI "Whisper", para criar transcrições amigáveis, incluindo o tempo onde cada frase foi falada e um texto de alta qualidade.
