@@ -42,7 +42,7 @@ cd suTranscriber
 ```bash
 pip install -r requirements.txt
 ```
-5. Edite as seguintes linhas conforme o necessário
+5. Edite as seguintes linhas do arquivo main.py conforme o necessário
 ```python
 # Key da api da OpenAi
 api_key = "SUA_CHAVE_DA_OPENAI"
@@ -51,6 +51,11 @@ audio_file = "CAMINHO_DO_ARQUIVO.mp3"
 # nome do arquivo de saída
 output = "transcription.txt"
 ```
+6. Inicie o arquivo main.py
+```bash
+python main.py
+```
+Um arquivo com o nome transcription.txt (ou o nome que for escolhido) será criado na raiz deste projeto, salve e utilize conforme necessário.
 
 ## 🚥 Status
 
